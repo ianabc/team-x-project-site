@@ -6,3 +6,7 @@ draft: false
 ## Team X - M2PI Kickoff Meeting
 
 Today, we met with our mentor and decided to change the world!
+
+$$
+\sum_{n=1}^\infty \frac{1}{n^2}
+$$
