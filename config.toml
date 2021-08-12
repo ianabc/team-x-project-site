@@ -1,5 +1,5 @@
 title = "Team X - Project Website"
-baseURL = "https://example.com"
+baseURL = "https://team-x-project-111.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 
